@@ -9,4 +9,4 @@
 - Playing Games
 - Listing Music
 ## Certifications:
-- Attended 2 days training program on source code management using Git & GitHub Conducted by APSSDC at My College
+- Attended 2 days training program on source code management  using Git & GitHub Conducted by APSSDC at My College
